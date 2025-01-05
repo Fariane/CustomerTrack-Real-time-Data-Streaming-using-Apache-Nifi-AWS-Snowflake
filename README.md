@@ -12,6 +12,8 @@ CustomerTrack is a real-time data pipeline that integrates AWS, Apache NiFi, and
 - Efficient data versioning and historical tracking
 
 ## Architecture Components
+![Architecture Diagram](Real-Time-Snowflake-dgram.png)
+
 ### Data Generation Layer
 - Custom Python script with the Faker library
 - Docker containerization
