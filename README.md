@@ -1,6 +1,7 @@
 # 👤 CustomerTrack : Streaming de données en temps réel avec Apache NiFi, AWS & Snowflake
 
-## CustomerTrack est un pipeline de données en temps réel combinant AWS, Apache NiFi et Snowflake, conçu pour automatiser l’ingestion de données clients tout en gérant les SCD (Slowly Changing Dimensions) Type 1 et Type 2 . Ce projet illustre la manière de traiter des flux de données tout en conservant l’historique et l’état actuel de chaque client.
+## Présentation
+CustomerTrack est un pipeline de données en temps réel combinant AWS, Apache NiFi et Snowflake, conçu pour automatiser l’ingestion de données clients tout en gérant les SCD (Slowly Changing Dimensions) Type 1 et Type 2 . Ce projet illustre la manière de traiter des flux de données tout en conservant l’historique et l’état actuel de chaque client.
 
 ## Points techniques clés
 - Pipeline de streaming en temps réel
